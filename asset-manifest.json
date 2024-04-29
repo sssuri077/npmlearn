@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/learnnpm/static/js/main.21219a84.js",
-    "index.html": "/learnnpm/index.html",
-    "main.21219a84.js.map": "/learnnpm/static/js/main.21219a84.js.map"
+    "main.js": "/npmlearn/static/js/main.21219a84.js",
+    "index.html": "/npmlearn/index.html",
+    "main.21219a84.js.map": "/npmlearn/static/js/main.21219a84.js.map"
   },
   "entrypoints": [
     "static/js/main.21219a84.js"

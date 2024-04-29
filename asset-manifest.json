@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/npmlearn/static/js/main.22ef51fd.js",
+    "main.js": "/npmlearn/static/js/main.544d901b.js",
     "index.html": "/npmlearn/index.html",
-    "main.22ef51fd.js.map": "/npmlearn/static/js/main.22ef51fd.js.map"
+    "main.544d901b.js.map": "/npmlearn/static/js/main.544d901b.js.map"
   },
   "entrypoints": [
-    "static/js/main.22ef51fd.js"
+    "static/js/main.544d901b.js"
   ]
 }
